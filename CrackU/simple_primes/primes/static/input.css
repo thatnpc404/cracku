@@ -1,0 +1,20 @@
+body{
+    background-color: rgb(209, 204, 204);
+}
+
+div{
+    position:absolute;
+    left:50%;
+    top:20%;
+    transform:translate(-50%,-50%);
+}
+
+button{
+    position: absolute;margin-left: 80px;
+}
+
+h2{
+    position: absolute;
+    left: 50%;
+    transform: translateX(-50%);
+}
